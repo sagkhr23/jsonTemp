@@ -1,7 +1,7 @@
 {
   "profile" : [
-  { "mname":"w", "cname":"c", "rtype":"r"},
-  {"mname":"w1", "cname":"c1", "rtype":"r1"},
-  {"mname":"w2", "cname":"c2", "rtype":"r2"}
+  { "id":1, "mname":"w", "cname":"c", "rtype":"r"},
+  { "id":2, "mname":"w1", "cname":"c1", "rtype":"r1"},
+  { "id":3, "mname":"w2", "cname":"c2", "rtype":"r2"}
   ]
 }
