@@ -1,0 +1,7 @@
+{
+  "profiles" : [
+  { "mname":"w", "cname":"c", "rtype":"r"},
+  {"mname":"w", "cname":"c", "rtype":"r"},
+  {"mname":"w", "cname":"c", "rtype":"r"}
+  ]
+}
